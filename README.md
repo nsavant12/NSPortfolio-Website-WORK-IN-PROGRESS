@@ -1,3 +1,5 @@
+This project was developed to help me display my current intrests & display my accomplishments I've made over time. Currently the website is still under development but you can expect to see changes made in the coming months to reflect the progress I've made. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
